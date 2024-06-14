@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Devansh Chhabra.
 
 Let's connect and build something awesome together!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyak1512&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshChhabra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak1512)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshChhabra)](https://github.com/anuraghazra/github-readme-stats)
 <!---
