@@ -6,6 +6,6 @@ Welcome to my GitHub profile! I'm Devansh Chhabra.
 
 👯 I’m looking to collaborate on interesting projects.
 
-📫 How to reach me: [Your Email](mailto:devanshchhabra2020@gmail.com)
+📫 How to reach me: [devanshchhabra2020@gmail.com](mailto:devanshchhabra2020@gmail.com)
 
 Let's connect and build something awesome together!
